@@ -15,7 +15,7 @@ Follow these steps to get the project running locally:
 
 ### 1. Clone the Repository
 
--- git clone https://github.com/your-username/your-repo-name.git
+-- git clone https://github.com/your-username/your-repo-name.git <br>
 -- cd your-repo-name
 
 ### 2. Install Dependencies
