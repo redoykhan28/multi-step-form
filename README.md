@@ -20,14 +20,14 @@ Follow these steps to get the project running locally:
 
 ### 2. Install Dependencies
 
--- npm install
-or if you're using Yarn:
+-- npm install <br>
+or if you're using Yarn:<br>
 -- yarn install
 
 ### 3. Run the Development Server
 
--- npm run dev
-or 
+-- npm run dev<br>
+or <br>
 -- yarn dev
 
 
